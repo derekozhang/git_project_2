@@ -9,3 +9,5 @@ add a second image
 
 light
 
+'extra' changes in the branch of skeleton.txt in the origin
+
